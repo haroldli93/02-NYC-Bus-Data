@@ -1,6 +1,8 @@
 # Exploratory Analysis of NYC Bus Data
 
+<p align="center">
 ![alt tag](https://github.com/haroldli93/02-NYC-Bus-Data/blob/master/MTA%20M5%20Bus%20Hairline%20Chart.png)
+</p>
 
 The MTA Bus Time App currently does a great job providing real-time information on bus locations and arrival estimates. However, I have noticed that the app has seemed to consistently underestimate the time it takes for buses to arrive. As a result, this project seeks to explore the real-time bus data provided by the Bus Time API and examine if there are any systematic errors and patterns that we can exploit to create better bus time predictions.
 
